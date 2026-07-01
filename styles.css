@@ -36,7 +36,7 @@ a:active {
     margin-bottom: 20px;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 300px) {
    .info {
     text-align: center;
     display: block;
